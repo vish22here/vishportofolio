@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" fill="#111210" />
+  <rect x="2" y="2" width="60" height="60" stroke="#30322E" stroke-width="2" />
+  <rect x="2" y="2" width="12" height="2" fill="#C4E478" />
+  <text
+    x="50%"
+    y="54%"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    fill="#F0EFE9"
+    font-family="system-ui, -apple-system, sans-serif"
+    font-weight="800"
+    font-size="24"
+    letter-spacing="-1"
+  >VJ</text>
+</svg>
